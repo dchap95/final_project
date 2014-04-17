@@ -47,14 +47,18 @@ p {
   padding-left: 300px;
 }
 
-
+#bottom{
 
 #footer{
   position: relative;
   
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
-  height: 75px;
+  height: 20px;
   background-color: #b2beff;
+}
+
+#profile_image{
+  margin: 149.3px 100px 149.3px 100px;
 }
 
