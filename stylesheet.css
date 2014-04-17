@@ -1,1 +1,7 @@
 /*This will be the CSS page*/
+
+#title{
+  color: #4f19fd;
+  font-family: Tauri, Serif;
+  font-size: 20px;
+}
