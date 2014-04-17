@@ -4,12 +4,7 @@
   color: #4f19fd;
   font-family: Tauri, Serif;
   font-size: 40px;
-  display: block;
-  border: 2px solid #000ebd;
-  border-radius: 10px;
-  background-color: #b2c5ff;
   text-align: center;
-  margin-top: -15px;
   font-weight: bold;
 }
 
@@ -47,3 +42,20 @@ p {
   padding-right: 400px;
   padding-left: 300px;
 }
+
+#header{
+  position: relative;
+  top: -10px;
+  background-color: #b2beff;
+  border-radius: 15px;
+}
+
+#footer{
+  position: relative;
+  bottom:-20px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  height: 75px;
+  background-color: #b2beff;
+}
+
