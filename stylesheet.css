@@ -10,6 +10,7 @@
   background-color: #b2c5ff;
   text-align: center;
   margin-top: -15px;
+  font-weight: bold;
 }
 
 a:link{
@@ -31,4 +32,11 @@ li{
   padding: 5px;
   border-radius: 5px;
   background-color: #66b4ff;
+}
+
+#background{
+  border: 5px solid #0024e5;
+  background-color: #4c69ff;
+  border-radius: 5px;
+  
 }
