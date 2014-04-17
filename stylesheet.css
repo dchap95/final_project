@@ -40,3 +40,10 @@ li{
   border-radius: 5px;
   
 }
+
+p {
+  font-size: 10px;
+  font-family: Arial;
+  padding-right: 50px;
+  padding-left: 50px;
+}
