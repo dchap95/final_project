@@ -23,3 +23,8 @@ a:visited{
 a:hover{
   color: #3266ff;
 }
+
+.tool_bar{
+  display: inline-block;
+  
+}
