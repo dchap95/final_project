@@ -4,4 +4,8 @@
   color: #4f19fd;
   font-family: Tauri, Serif;
   font-size: 40px;
+  display: block;
+  border: 2px solid #000ebd;
+  background-color: #5db1df;
+  text-align: center;
 }
