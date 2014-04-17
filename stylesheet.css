@@ -60,5 +60,6 @@ p {
 img {
   height: 300px;
   width: 447.9px;
+  display: inline-block;
 }
 
