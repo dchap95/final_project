@@ -11,3 +11,15 @@
   text-align: center;
   margin-top: -15px;
 }
+
+a:link{
+  color: #0040ff;
+  text-decoration: none;
+}
+a:visited{
+  color: #000000;
+  text-decoration: none;
+}
+a:hover{
+  color: #1953ff;
+}
