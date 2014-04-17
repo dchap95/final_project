@@ -51,15 +51,14 @@ p {
 
 #footer{
   position: relative;
-  
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   height: 20px;
   background-color: #b2beff;
 }
 
-img{
-  height: 100px;
-  width: 149.3px;
+img {
+  height: 300px;
+  width: 447.9px;
 }
 
