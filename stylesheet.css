@@ -22,7 +22,7 @@ a:visited{
 }
 a:hover{
   color: #3266ff;
-}
+} /*you don't want there to be a line under visited links. that would look weird the way the navbar is formatted*/
 
 li{
   display: inline;
@@ -46,7 +46,7 @@ p {
   clear: both;
 }
 
-.bottom{
+.bottom{ /*make sure you close this. You already had a problem with it*/
   padding: 25px;
   color: #838489;
   font-family: Times;
@@ -69,12 +69,12 @@ img {
   display: inline-block;
 }
 
-#left {
+#left {/*you want the navbar on the left, sitting next to the profile img*/
   float: left;
   
 }
 
-#right {
+#right {/*you want the profile img sitting next to the navbar*/
   float:right
 }
 
@@ -89,4 +89,11 @@ th {
   font-family: Arial;
   font-size: 60px;
 }
-  
+
+#post{
+  background-color: #ffffff;
+  border: 2px solid #000000;
+  border-radius: 5px;
+}
+
+/*Look how pretty this makes things look. Maybe not the best but give yourself a break; you're a beginner*/
