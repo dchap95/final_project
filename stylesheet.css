@@ -81,4 +81,9 @@ img {
   border-radius: 15px;
   padding-left: 12.5%;
 }
+
+th {
+  font-family: Arial;
+  font-size: 20px;
+}
   
