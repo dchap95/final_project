@@ -41,8 +41,6 @@ li{
 p {
   font-size: 20px;
   font-family: Arial;
-  padding-right: 400px;
-  padding-left: 300px;
   clear: both;
 }
 
@@ -94,8 +92,10 @@ th {
   background-color: #ffffff;
   border: 2px solid #000000;
   border-radius: 5px;
-  margin-left: 290px;
-  margin-right: 390px;
+  clear: both;
+  margin-left: 300px;
+  margin-right: 400px;
+  
 }
 
 /*Look how pretty this makes things look. Maybe not the best but give yourself a break; you're a beginner*/
