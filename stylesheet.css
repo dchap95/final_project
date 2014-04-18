@@ -48,7 +48,12 @@ p {
   clear: both;
 }
 
-
+.bottom{
+  padding: 30px;
+  color: #838489;
+  font-family: Times;
+  
+}
   
 #Footer {
   position: relative;
