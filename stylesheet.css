@@ -47,17 +47,17 @@ p {
   padding-left: 300px;
 }
 
-.bottom{
+
+  
+#Footer {
   position: relative;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   height: 20px;
   background-color: #b2beff;
   clear: both;
-
-#footer p{
-
 }
+
 
 img {
   height: 300px;
