@@ -73,4 +73,12 @@ img {
 
 #right {
   float:right
+}
+
+.photos{
+  border: 2px solid #000000;
+  background-color: #4c69ff;
+  float: center;
+  border-radius: 15px;
+}
   
