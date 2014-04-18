@@ -61,11 +61,13 @@ img {
   height: 300px;
   width: 447.9px;
   display: inline-block;
-  float: right;
-  clear: left;
 }
 
 ul {
   float: left;
-  clear: right;
+  
 }
+
+#profile_img {
+  float:right
+  
