@@ -78,12 +78,20 @@ img {
   float:right
 }
 
+table{
+  border: 2px solid #000000;
+  background-color: #11e18f;
+  border-radius: 15px;
+}
+
 .photos{
   border: 2px solid #000000;
   background-color: #4c69ff;
   border-radius: 15px;
   padding-left: 12.5%;
 }
+
+
 
 th {
   font-family: Arial;
