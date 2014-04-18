@@ -40,22 +40,23 @@ li{
   
 }
 
-div p {
+p {
   font-size: 20px;
   font-family: Arial;
   padding-right: 400px;
   padding-left: 300px;
 }
 
-#bottom{
-
-#footer p{
+.bottom{
   position: relative;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
   height: 20px;
   background-color: #b2beff;
   clear: both;
+
+#footer p{
+
 }
 
 img {
