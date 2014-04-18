@@ -42,6 +42,8 @@ p {
   font-size: 20px;
   font-family: Arial;
   clear: both;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .bottom{ /*make sure you close this. You already had a problem with it*/
