@@ -62,6 +62,6 @@ img {
   width: 447.9px;
   display: inline-block;
   float: right;
-
+  clear: left;
 }
 
