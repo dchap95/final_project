@@ -17,11 +17,11 @@ a:link{
   text-decoration: none;
 }
 a:visited{
-  color: #5d78ff;
+  color: #3549b2;
   text-decoration: none;
 }
 a:hover{
-  color: #b7c3ff;
+  color: #c9d2ff;
 } /*you don't want there to be a line under visited links. that would look weird the way the navbar is formatted*/
 
 li{
